@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564037234678",
+    "project_id": "flash-chat-xvr",
+    "storage_bucket": "flash-chat-xvr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564037234678:android:08c84ebd8028e871c8e1d7",
+        "android_client_info": {
+          "package_name": "com.xavirtamim.flash_chat_xvr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564037234678-d8vlq5h21186goefk30qjgp1sujr5ub1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpeCSwdTOOQaH1B5v9D4NyxGs_yjt42Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564037234678-d8vlq5h21186goefk30qjgp1sujr5ub1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
